@@ -22,3 +22,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=akhilrajpoot4878-crypto&show_icons=true&theme=tokyonight" width="100%" />
 </p>
+### 📊 Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akhilrajpoot4878-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=akhilrajpoot4878-crypto&theme=tokyonight&hide_border=true" />
+</p>
