@@ -40,8 +40,17 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrajpoot4878-crypto&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🐍 Watch my contributions get eaten!
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+### 🔥 3D Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilrajpoot4878-crypto&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12,20,40,60,80" width="100%"/>
+</p>
