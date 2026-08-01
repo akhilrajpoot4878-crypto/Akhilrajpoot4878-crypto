@@ -3,7 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/akhilrajpoot4878-crypto.png" width="160" height="160" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer+in+Making;MERN+Stack+%7C+DSA+Learner;Building+Cool+Web+Experiences" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/akhilrajpoot4878-crypto.png" width="160" height="160" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhilrajpoot4878-crypto&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/akhilrajpoot4878-crypto?label=Followers&style=social" />
 </p>
 
 <h3 align="center">🚀 Passionate about Building Web Experiences</h3>
@@ -15,6 +24,13 @@
 </p>
 
 ---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/bharat-kumar-27801b277?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/yogirajpoot4878?igsh=Y25raWZtOXI2eDI=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:bharatkumar@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ### 🧑‍💻 About Me
 - 🔭 Working on **MERN Stack Projects**
@@ -31,6 +47,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ### 📊 GitHub Stats
@@ -45,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-### 🔥 3D Contribution Graph
+### 🔥 3D Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilrajpoot4878-crypto&theme=tokyonight" width="100%"/>
 </p>
