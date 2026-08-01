@@ -8,8 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILD-00E5FF?style=for-the-badge&logo=code&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LEARN-9D00FF?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CREATE-FF00E5?style=for-the-badge&logo=sparkles&logoColor=white"/>
+ <img src="https://avatars.githubusercontent.com/akhilrajpoot4878-crypto" width="170" style="border-radius:50%" /> src="https://img.shields.io/badge/CREATE-FF00E5?style=for-the-badge&logo=sparkles&logoColor=white"/>
 </p>
 
 ---
