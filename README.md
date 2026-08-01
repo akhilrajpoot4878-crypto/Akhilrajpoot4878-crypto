@@ -29,7 +29,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bharat-kumar-27801b277?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/yogirajpoot4878?igsh=Y25raWZtOXI2eDI=" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:bharatkumar@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### 🧑‍💻 About Me
@@ -51,21 +50,17 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akhilrajpoot4878-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrajpoot4878-crypto&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🐍 Watch my contributions get eaten!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
-### 🔥 3D Profile Summary
+### 📊 GitHub Overview
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilrajpoot4878-crypto&theme=tokyonight" width="100%"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhilrajpoot4878-crypto&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhilrajpoot4878-crypto&theme=tokyonight" width="48%"/>
+</p>
+
+### 🐍 My Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
