@@ -1,19 +1,22 @@
-![Banner](banner.png)
-
 <p align="center">
-  <img src="https://github.com/akhilrajpoot4878-crypto.png" width="170" style="border-radius:50%"/>
-  <h1 align="center">BHARAT KUMAR</h1>
-  <p align="center"><b>Student | Web Developer | Tech Enthusiast</b><br>I build Games & Websites on my phone 📱</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=BHARAT%20KUMAR&fontSize=40&fontColor=ffffff&desc=Student%20|%20Web%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&animation=fadeIn&color=gradient&customColorList=12,20,40,60,80&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILD-00E5FF?style=for-the-badge&logo=code&logoColor=black"/>
- <img src="https://avatars.githubusercontent.com/akhilrajpoot4878-crypto" width="170" style="border-radius:50%" /> src="https://img.shields.io/badge/CREATE-FF00E5?style=for-the-badge&logo=sparkles&logoColor=white"/>
+  <img src="https://github.com/akhilrajpoot4878-crypto.png" width="160" height="160" />
+  <br><br>
+  <b>I build Games & Websites on my phone 📱</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILD-00E5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARN-9D00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CREATE-FF00E5?style=for-the-badge" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me:
+### 🧑‍💻 About Me
 - 🔭 Working on **MERN Stack Projects**
 - 🌱 Learning **DSA & Backend Development**
 - 💬 Ask me about **HTML, CSS, JavaScript**
@@ -37,6 +40,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilrajpoot4878-crypto&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
 
 <p align="center"><b>✨ Thanks for visiting my profile ✨</b></p>
