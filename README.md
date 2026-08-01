@@ -4,9 +4,9 @@
 
 <p align="center">
   <img src="https://github.com/akhilrajpoot4878-crypto.png" width="160" height="160" />
-  <br><br>
-  <b>I build Games & Websites on my phone 📱</b>
 </p>
+
+<h3 align="center">I build Games & Websites on my phone 📱</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILD-00E5FF?style=for-the-badge" />
