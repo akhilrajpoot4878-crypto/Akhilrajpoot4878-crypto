@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=BHARAT%20KUMAR&fontSize=40&fontColor=ffffff&desc=Student%20|%20Web%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&animation=fadeIn&color=gradient&customColorList=12,20,40,60,80&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=BHARAT%20KUMAR&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Developer%20in%20Making&descAlignY=55&animation=fadeIn&color=gradient&customColorList=12,20,40,60,80&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://github.com/akhilrajpoot4878-crypto.png" width="160" height="160" />
 </p>
 
-<h3 align="center">I build Games & Websites on my phone 📱</h3>
+<h3 align="center">🚀 Passionate about Building Web Experiences</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILD-00E5FF?style=for-the-badge" />
